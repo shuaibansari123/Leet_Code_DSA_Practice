@@ -1,6 +1,6 @@
 # I am starting this from name of ALLAH
-# Bismillahir rahmanir rahim
-# allah mujhe himmat,takat,akal,dimag,shifa ata farma or nek amal karne ki or galat amal se bachne ki tahfik ata farma
+# Bismillaahir raahmaanir rahim
+# ALLAH mujhe himmat,takat,akal,dimag,shifa ata farma or nek amal karne ki or galat amal se bachne ki tahfik ata farma
 # me bs koshish kr sakta hu or me sirf tujhse hi ummed rakhta hu or tujhi se mangta or sirf tere aage sir jhukata hu
 
 # AGAIN start DSA from 06-02-2024
@@ -125,6 +125,6 @@ class Solution:
 
 
 # I am starting this from name of ALLAH
-# Bismillahir rahmanir rahim
-# allah mujhe himmat,takat,akal,dimag,shifa ata farma or nek amal karne ki or galat amal se bachne ki tahfik ata farma
+# Bismillaahir raahmaanir rahim
+# ALLAH mujhe himmat,takat,akal,dimag,shifa ata farma or nek amal karne ki or galat amal se bachne ki tahfik ata farma
 # me bs koshish kr sakta hu or me sirf tujhse hi ummed rakhta hu or tujhi se mangta or sirf tere aage sir jhukata hu
