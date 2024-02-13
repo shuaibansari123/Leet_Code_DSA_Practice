@@ -8,7 +8,7 @@ Each element nums[i] represents the maximum length of a forward jump from index 
 i + j < n
 Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
 
- 
+
 
 Example 1:
 
